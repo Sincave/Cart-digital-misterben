@@ -1,6 +1,6 @@
 {
   "name": "Misterben apk",
-  "short_name": "Mister beb",
+  "short_name": "Mister ben",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
@@ -8,12 +8,12 @@
   "description": "Un site qui peut être installé comme application.",
   "icons": [
     {
-      "src": "LOGO1.png",
+      "src": "W2.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "LOGO1.png",
+      "src": "W2.png",
       "sizes": "512x512",
       "type": "image/png"
     }
