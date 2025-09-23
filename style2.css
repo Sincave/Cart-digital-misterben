@@ -13,9 +13,8 @@
 html,body{height:100%}
 body{
   margin:0;
-  background:black;
-    /*  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                    url("O1.jpg"); /* مسار الصورة */
+   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                    url("O1.jpg");
   background-size: cover; /* الصورة تغطي كامل الشاشة */
   background-repeat: repeat; /* ما تتعاودش */
   background-position: center; 
