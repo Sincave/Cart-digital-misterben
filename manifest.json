@@ -1,6 +1,6 @@
 {
-  "name": "Tacos ino Application",
-  "short_name": "Tacos ino",
+  "name": "Misterben apk",
+  "short_name": "Mister beb",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
@@ -8,12 +8,12 @@
   "description": "Un site qui peut être installé comme application.",
   "icons": [
     {
-      "src": "Logotime.png",
+      "src": "LOGO1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "Logotim.png",
+      "src": "LOGO1.png",
       "sizes": "512x512",
       "type": "image/png"
     }
